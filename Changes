@@ -1,0 +1,6 @@
+Revision history for Perl extension Config::PkgConfig.
+
+0.01  Wed Jun 18 08:59:15 2003
+	- original version; created by h2xs 1.22 with options
+		-AXn Config::PkgConfig -b5.6.1
+
